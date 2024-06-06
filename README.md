@@ -9,4 +9,4 @@ Currently popular assistant systems like ChatGPT are designed to solve human dec
 Decoder-only models have a beneficial characteristic of being pure functions, which allows us to better control complexity. However, as we evolve from System1 to System2, the introduction of states inevitably causes the system's complexity to gradually spiral out of control. Some existing Multi-Agent solutions introduce too many states, making the system difficult to scale sustainably. We aim to control this Multi-Agent characteristic within parts of the system or push it to the system's edges.
 
 ## Architecture
-![Sibyl System](./imgs/sibyl.webp)
+![Sibyl System](./imgs/sibyl.jpeg)

@@ -2,6 +2,17 @@
 
 This is an experimental project. We are attempting to design a general assistant system that evolves from System1 to System2. The name Sibyl comes from the multi-agent system composed of numerous human brains in [Psycho-Pass](https://psychopass.fandom.com/wiki/Sibyl_System).
 
+# Benchmark
+## GAIA
+|Model Name|Average score (%)|Level 1 score (%)| Level 2 score (%) | Level 3 score (%)|
+|-|-|-|-|-|
+|**Sibyl System v0.2**|34.55|47.31|32.7|16.33|
+|Multi-Agent Experiment v0.1 (powered by AutoGen)|32.33|47.31|28.93|14.58|
+|FRIDAY|24.25|40.86|20.13|6.12|
+|GPT4 + manually selected plugins|14.6|30.3|9.7|0|
+|GPT4 Turbo|6.67|9.68|6.92|0|
+|AutoGPT4|5|15.05|0.63|0|
+
 ## Philosophy
 ### From System1 to System2
   

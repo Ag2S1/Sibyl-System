@@ -1,0 +1,5 @@
+.cache
+.history
+llm_cache.sqlite
+coding
+*.pyc

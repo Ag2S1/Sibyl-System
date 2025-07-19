@@ -17,7 +17,7 @@ pdfminer==20191125
 pdfminer.six==20231228
 Pillow==10.3.0
 puremagic==1.23
-pyautogen==0.2.27
+ag2==0.2.27
 pydub==0.25.1
 python_pptx==0.6.23
 ray==2.22.0
